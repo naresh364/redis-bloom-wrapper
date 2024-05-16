@@ -1,9 +1,13 @@
 {
   "name": "redis-bloom-wrapper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naresh364/redis-bloom-wrapper.git"
+  },
   "scripts": {
     "build": "tsc",
     "test": "jest"
